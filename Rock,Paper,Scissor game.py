@@ -14,4 +14,4 @@ else:
     print("Computer Choice:",computer)
     print("Your Choice:",You)
     print("You lost,,maybe try again")
-print(computer)
+
